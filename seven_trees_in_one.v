@@ -1,3 +1,5 @@
+(* Seven Trees in One *)
+(* http://www.thebigquestions.com/2013/05/09/seven-trees-in-one/ *)
 
 Inductive Tree :=
 | Nil : Tree
